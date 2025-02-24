@@ -1,0 +1,4 @@
+p2pChatSystem/user_interface/GUI.class
+p2pChatSystem/network/UDPconnection.class
+p2pChatSystem/network/TCPmessaging.class
+p2pChatSystem/Main.class
